@@ -1,0 +1,17 @@
+body {
+  color: #fffff1;
+  font-family: "Poppins", sans-serif; /* doraki gia na ksekiniseis */
+  background: url("../images/image.jpg") no-repeat;
+  background-size: contain;
+}
+.mr-10 {
+  margin-right: 10px;
+}
+.ml-10 {
+  margin-left: 10px;
+}
+#logo {
+  width: 125px;
+  min-width: 15%;
+  height: auto;
+}
